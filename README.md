@@ -1,6 +1,8 @@
 # Cupcake-Website
 
-Welcome to My Munamii Cupcake website design
+Welcome to My Munamii Cupcake website design.
+
+
 This website works on phones, tablets and desktops
 
 you visit the website at:
